@@ -1,4 +1,6 @@
 # PHYS-2120-lab
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/devkhullar/PHYS-2120-lab/main)
+
 
 This repository hosts all the code that I used to create figures for my PHYS 2120 lab, which covers content on:
 - Rotational Physics
